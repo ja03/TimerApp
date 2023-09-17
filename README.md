@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClockWise
 
 ## Description
@@ -31,3 +32,17 @@ ReactJS and Tailwind CSS
 ## Contact
 
 Provide your contact information or a way for users to reach out if they have questions or feedback.
+=======
+# React Timer Application
+
+set a timer and get your things done
+
+## How To Use
+
+1- Set a time
+2- press Set Timer 
+3- well done your finished
+
+## We live, We love, We lie
+
+>>>>>>> cd3bb413d20795db1858f40453d782e93af32214
