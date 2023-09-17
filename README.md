@@ -12,7 +12,7 @@ A versatile timer application to help you manage your tasks, focus on productivi
 
 ## Demo
 
-live site:
+live site: https://clockwise.vercel.app/
 
 ## Technologies Used
 
